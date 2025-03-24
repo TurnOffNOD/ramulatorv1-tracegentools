@@ -1,4 +1,5 @@
 *.swp
+*.tar*
 
 # Compiled Object files
 obj/
