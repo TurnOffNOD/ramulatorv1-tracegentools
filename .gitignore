@@ -3,6 +3,16 @@
 
 # Compiled Object files
 obj/
+trace_generator/src/PinPoints/obj-intel64/
+*.o
+*.d
+*.log
+out.T.0.bb
+*.exe
+*.out
+*.so
+trace_generator/Simpoint3.2/bin/simpoint
+trace_generator/Simpoint3.2/analysiscode/simpoint
 
 # Compiled target executable files
 ramulator
